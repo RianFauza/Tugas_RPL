@@ -12,3 +12,32 @@
 # Class
 ![class](https://github.com/RianFauza/Tugas_RPL/assets/115771479/029b1ea4-1d21-4910-8e82-963b166a8a53)
 
+# Login
+![image](https://github.com/RianFauza/Tugas_RPL/assets/115771479/edcc2479-88b3-4978-9e1e-0fa32f199130)
+
+# Tampilan Home
+![image](https://github.com/RianFauza/Tugas_RPL/assets/115771479/128457af-c8c3-4c58-ad19-4a1250ab6626)
+
+# Add To Cart 4
+<img width="958" alt="image" src="https://github.com/RianFauza/Tugas_RPL/assets/115771479/e63fc13b-d8d2-4cd7-99f6-4174eca5d1ec">
+
+# Tampilan Admin
+![image](https://github.com/RianFauza/Tugas_RPL/assets/115771479/60802f61-87bc-47ee-a99f-563202f11901)
+
+# Check Out
+![image](https://github.com/RianFauza/Tugas_RPL/assets/115771479/0e41e28e-e379-4bd8-96ce-49121faa9478)
+
+# Orders
+![image](https://github.com/RianFauza/Tugas_RPL/assets/115771479/4ff091e0-bdb3-4529-84d0-5f5bbae9c049)
+
+# Status Di ceklis
+![image](https://github.com/RianFauza/Tugas_RPL/assets/115771479/9acece7f-321a-4b7a-9e83-73bbb59e3f61)
+
+# karna Saya Ceklisnya cuma 1 aja jadi yang completed 1
+![image](https://github.com/RianFauza/Tugas_RPL/assets/115771479/cfb45fe7-1cba-4db5-902e-f0a3b29295fd)
+
+
+
+
+
+
