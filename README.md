@@ -16,7 +16,7 @@
 ![image](https://github.com/RianFauza/Tugas_RPL/assets/115771479/edcc2479-88b3-4978-9e1e-0fa32f199130)
 
 # Tampilan Home
-![image](https://github.com/RianFauza/Tugas_RPL/assets/115771479/128457af-c8c3-4c58-ad19-4a1250ab6626)
+![image](https://github.com/RianFauza/Tugas_RPL/assets/115771479/d87e682d-1350-4911-9beb-cd25389f1a49)
 
 # Add To Cart 4
 <img width="958" alt="image" src="https://github.com/RianFauza/Tugas_RPL/assets/115771479/e63fc13b-d8d2-4cd7-99f6-4174eca5d1ec">
